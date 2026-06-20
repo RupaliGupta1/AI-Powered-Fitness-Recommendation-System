@@ -1,0 +1,18 @@
+
+
+redux
+
+npm install react-redux
+
+npm install @reduxjs/toolkit
+
+
+npm i react-router
+
+npm install @mui/material @emotion/react @emotion/styled
+
+
+npm i react-oauth2-code-pkce
+
+
+npm i axios
